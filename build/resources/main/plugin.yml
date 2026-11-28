@@ -1,9 +1,0 @@
-name: Heal-plugin
-description: adds /heal command
-version: '1.0-SNAPSHOT'
-
-main: me.biggie.healPlugin.HealPlugin
-api-version: '26.2'
-load: POSTWORLD
-
-authors: [Biggie8888]
